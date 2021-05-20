@@ -3,10 +3,12 @@
 - 🌱 I’m currently learning Advanced ML algorithms.
 - 🤝 I’m looking to collaborate on Applied ML on Materials Engineering and Materials Science as well.
 - How to reach me:
-      <ul> 
+      <ul>
       <li><a href="https://twitter.com/_arods">Twitter</a></li>
       <li><a href="https://github.com/aerodriguezsanchez">GitHub</a></li>
-      <li>My blog (in spanish): <a href="https:\\blogmateria.com">Blog Materia</a></li>
+      <li><a href="https://orcid.org/0000-0003-3397-5261">ORCiD</a></li> 
+      <li><a href="https://blogmateria.com">My blog (in spanish): Blog materia</a></li>
+      <li><a href="https://scholar.google.com.mx/citations?user=eo-JXcoAAAAJ&hl=es">Google Scholar</a></li>   
       </ul>
 <!---
 aerodriguezsanchez/aerodriguezsanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
