@@ -2,6 +2,7 @@
 - 👉 I’m interested in Applied Machine Learning for Materials response modeling and Continuum Mechanics.
 - 🌱 I’m currently learning Advanced ML algorithms.
 - 🤝 I’m looking to collaborate on Applied ML on Materials Engineering and Materials Science as well.
+- I am a Certified Tensorflow Developer (https://sgq.io/LqSUNZN) 
 - How to reach me:
       <ul>
       <li><a href="https://twitter.com/_arods">Twitter</a></li>
