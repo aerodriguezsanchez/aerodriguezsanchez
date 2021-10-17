@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alejandro (@aerodriguezsanchez)-
 - 👉 I’m interested in Applied Machine Learning for materials response modeling and Continuum Mechanics.
 - 🌱 I’m currently learning Advanced ML algorithms.
-- 🤝 I’m looking to collaborate on Applied ML on Materials Engineering and Materials Science as well.
+- 🤝 I’m looking to collaborate on Applied ML for materials engineering and materials science as well.
 - I am a Certified Tensorflow Developer (https://sgq.io/LqSUNZN) 
 - How to reach me:
       <ul>
